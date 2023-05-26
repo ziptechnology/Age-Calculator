@@ -4,7 +4,8 @@
   "description": "calculates your Age",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-packager . AgeCalculator --platform=win32 --arch=x64 --icon=assets/icons/calc.ico --overwrite --prune=true --out=release-builds"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
