@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "Age Calculator",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "calculates your Age",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,13 +9,12 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Age Calculator",
+    "polygon",
+    "gloomyfm"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Polygon",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^24.4.0",
     "electron-packager": "^17.1.1"
