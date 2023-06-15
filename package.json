@@ -17,7 +17,7 @@
   "author": "Polygon",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^24.4.0",
+    "electron": "^25.1.1",
     "electron-packager": "^17.1.1"
   }
 }
